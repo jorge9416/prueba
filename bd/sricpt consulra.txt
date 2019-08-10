@@ -1,0 +1,8 @@
+script consultas
+
+Select idCondcutor from conductor 
+Where infraccion from importe <= 30000; 
+
+
+select idCondcutor from conductor
+where Denuncia from pagada = n;
